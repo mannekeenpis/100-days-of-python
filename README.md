@@ -7,5 +7,7 @@ My solutions for the projects included in the [100 Days of Code - The Complete P
 - [Day 2](day02): Understanding Data Types and How to Manipulate Strings
 - [Day 3](day03): Control Flow and Logical Operators
 - [Day 4](day04): Randomisation and Python Lists
+- [Day 5](day05): Python Loops
+
 
 

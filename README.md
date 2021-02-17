@@ -10,6 +10,7 @@ My solutions for the projects included in the [100 Days of Code - The Complete P
 - [Day 5](day05): Python Loops
 - [Day 6](day06): Python Functions & Karel
 - [Day 7](day07): Hangman
+- [Day 8](day08): Function Parameters & Caesar Cipher
 
 
 

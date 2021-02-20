@@ -13,6 +13,8 @@ My solutions for the projects included in the [100 Days of Code - The Complete P
 - [Day 8](day08): Function Parameters & Caesar Cipher
 - [Day 9](day09): Dictionaries, Nesting and the Secret Auction
 - [Day 10](day10): Function Return Values and the Calculator Project
+- [Day 11](day11): Blackjack Capstone Project
+
 
 
 

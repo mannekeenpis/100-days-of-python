@@ -15,6 +15,8 @@ My solutions for the projects included in the [100 Days of Code - The Complete P
 - [Day 10](day10): Function Return Values and the Calculator Project
 - [Day 11](day11): Blackjack Capstone Project
 - [Day 12](day12): Scope and Namespacing in Python
+- [Day 13](day13): Debugging: How to Find and Fix Errors in your Code
+
 
 
 

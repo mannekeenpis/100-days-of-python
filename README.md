@@ -20,6 +20,7 @@ My solutions for the projects included in the [100 Days of Code - The Complete P
 
 ## 🏋🏻‍♂️ Intermediate
 - [Day 15](day15): Local Development Environment Setup & the Coffee Machine Project
+- [Day 16](day16): Object Oriented Programming (OOP)
 
 
 

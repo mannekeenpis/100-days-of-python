@@ -24,7 +24,7 @@ My solutions for the projects included in the [100 Days of Code - The Complete P
 - [Day 17](day17): The Quiz Project & the Benefits of OOP
 - [Day 18](day18): Turtle Graphics and GUIs
 - [Day 19](day19): Instances, State and Higher Order Functions
-
+- [Day 20](day20): Build the Snake Game Part 1: Animation & Coordinates
 
 
 

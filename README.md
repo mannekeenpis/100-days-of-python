@@ -26,6 +26,7 @@ My solutions for the projects included in the [100 Days of Code - The Complete P
 - [Day 19](day19): Instances, State and Higher Order Functions
 - [Day 20](day20): Build the Snake Game Part 1: Animation & Coordinates
 - [Day 21](day21): Day 21 - Build the Snake Game Part 2: Inheritance & List Slicing
+- [Day 22](day22): Build Pong: The Famous Arcade Game
 
 
 

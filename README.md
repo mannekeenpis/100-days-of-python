@@ -33,6 +33,7 @@ My solutions for the projects included in the [100 Days of Code - The Complete P
 - [Day 24](day24): Files, Directories and Paths
 - [Day 25](day25): Working with CSV Data and the Pandas Library
 - [Day 26](day26): List Comprehension & the NATO Pilot's Alphabet
+- [Day 27](day27): Tkinter, *args, **kwargs and Creating GUI Programs
 
 
 

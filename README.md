@@ -1,20 +1,14 @@
 # 100 Days of Python 🐍
 
-![https://badgen.net/badge/github/commits/grey?icon=github](https://badgen.net/badge/github/commits/grey?icon=github)
-
 ![wallpaper](wallpaper.png)
 
-Im taking part in '100 Days of Code - The Complete Python Pro Bootcamp for 2021' course from Udemy.
-
+Im taking part in "100 Days of Code - The Complete Python Pro Bootcamp for 2021" course from Udemy.
 Since my goal is to master Python, I chose to take this course in the hope it would provide more structure and better 
 guidance than I was getting while "self-learning".
-
 While taking part in this course, I have been taking notes and what-not and attempting all of the course projects to the
 best of my abilities.
-
 I'll be using this repo as a way for myself to access them as, if and when I need them.
-
-100 projects in 100 days. All the personal projects for Great professor and great course, really recommend it. <br>   
+100 projects in 100 days. All the personal projects for Great professor and great course, really recommend it: 
 [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code).
 
 ## 👨🏻‍🎓 Beginner
@@ -50,6 +44,7 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 28](day28): Tkinter, Dynamic Typing and the Pomodoro GUI Application
 - [Day 29](day29): Building a Password Manager GUI App with Tkinter
 - [Day 30](day30): Errors, Exceptions and JSON Data: Improving the Password Manager
+- [Day 31](day31): Day 31 - Capstone Project - Flash Card App
 
 <p align="center">
   <img width="360" src="cat.gif" alt="profile" />

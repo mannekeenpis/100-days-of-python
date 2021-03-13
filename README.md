@@ -34,7 +34,7 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 18](day18): Turtle Graphics and GUIs
 - [Day 19](day19): Instances, State and Higher Order Functions
 - [Day 20](day20): Build the Snake Game Part 1: Animation & Coordinates
-- [Day 21](day21): Day 21 - Build the Snake Game Part 2: Inheritance & List Slicing
+- [Day 21](day21): Build the Snake Game Part 2: Inheritance & List Slicing
 - [Day 22](day22): Build Pong: The Famous Arcade Game
 - [Day 23](day23): The Turtle Crossing Capstone Project
 - [Day 24](day24): Files, Directories and Paths
@@ -44,7 +44,12 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 28](day28): Tkinter, Dynamic Typing and the Pomodoro GUI Application
 - [Day 29](day29): Building a Password Manager GUI App with Tkinter
 - [Day 30](day30): Errors, Exceptions and JSON Data: Improving the Password Manager
-- [Day 31](day31): Day 31 - Capstone Project - Flash Card App
+- [Day 31](day31): Capstone Project - Flash Card App
+
+## 💪 Intermediate+
+- [Day 32](day32): Send Email (smtplib) & Manage Dates (datetime): The Automated Birthday Wisher
+
+
 
 <p align="center">
   <img width="360" src="cat.gif" alt="profile" />

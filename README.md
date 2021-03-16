@@ -50,7 +50,7 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 32](day32): Send Email (smtplib) & Manage Dates (datetime): The Automated Birthday Wisher
 - [Day 33](day33): API Endpoints and API Parameters - ISS Overhead Notifier
 - [Day 34](day34): API Practice - Creating a GUI Quiz App
-
+- [Day 35](day35): Keys, Authentication & Environment Variables: Send SMS
 
 <p align="center">
   <img width="360" src="cat.gif" alt="profile" />

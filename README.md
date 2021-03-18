@@ -1,6 +1,7 @@
 # 100 Days of Python 🐍
 
 ![wallpaper](wallpaper.png)
+<br>
 
 Im taking part in "100 Days of Code - The Complete Python Pro Bootcamp for 2021" course from Udemy.
 Since my goal is to master Python, I chose to take this course in the hope it would provide more structure and better 
@@ -52,6 +53,7 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 34](day34): API Practice - Creating a GUI Quiz App
 - [Day 35](day35): Keys, Authentication & Environment Variables: Send SMS
 - [Day 36](day36): Stock Trading News Alert Project
+- [Day 37](day37): Habit Tracking Pixel Project
 
 <br>
 <p align="center">

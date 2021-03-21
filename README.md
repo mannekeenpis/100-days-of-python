@@ -56,6 +56,7 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Dau 37](dau37): Habit Tracking Pixel Project
 - [Day 38](day38): Build a Workout Tracking App that Talks to Google Sheets!
 - [Day 39](day39): Capstone Part 1: Flight Deal Finder
+- [Day 40](day40): Capstone Part 2: Flight Club!
 
 <br>
 <p align="center">

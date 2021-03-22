@@ -4,12 +4,12 @@
 <br>
 
 Im taking part in "100 Days of Code - The Complete Python Pro Bootcamp for 2021" course from Udemy.
-Since my goal is to master Python, I chose to take this course in the hope it would provide more structure and better 
+Since my goal is to master Python, I chose to take this course in the hope it would provide more structure and better
 guidance than I was getting while "self-learning".
 While taking part in this course, I have been taking notes and what-not and attempting all of the course projects to the
 best of my abilities.
 I'll be using this repo as a way for myself to access them as, if and when I need them.
-100 projects in 100 days. All the personal projects for Great professor and great course, really recommend it: 
+100 projects in 100 days. All the personal projects for Great professor and great course, really recommend it:
 [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code).
 
 ## 👨🏻‍🎓 Beginner
@@ -53,10 +53,12 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 34](day34): API Practice - Creating a GUI Quiz App
 - [Day 35](day35): Keys, Authentication & Environment Variables: Send SMS
 - [Day 36](day36): Stock Trading News Alert Project
-- [Dau 37](dau37): Habit Tracking Pixel Project
+- [Dau 37](day37): Habit Tracking Pixel Project
 - [Day 38](day38): Build a Workout Tracking App that Talks to Google Sheets!
 - [Day 39](day39): Capstone Part 1: Flight Deal Finder
 - [Day 40](day40): Capstone Part 2: Flight Club!
+- [Day 41](day41): Introduction to HTML
+
 
 <br>
 <p align="center">

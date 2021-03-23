@@ -58,6 +58,8 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 39](day39): Capstone Part 1: Flight Deal Finder
 - [Day 40](day40): Capstone Part 2: Flight Club!
 - [Day 41](day41): Introduction to HTML
+- [Day 42](day42:) Intermediate HTML
+
 
 
 <br>

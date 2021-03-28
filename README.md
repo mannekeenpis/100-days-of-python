@@ -63,6 +63,7 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 44](day44): Intermediate CSS
 - [Day 45](day45): Web Scraping with Beautiful Soup
 - [Day 46](day46): Create a Spotify Playlist using the Musical Time Machine
+- [Day 47](day47): Create an Automated Amazon Price Tracker
 
 <br>
 <p align="center">

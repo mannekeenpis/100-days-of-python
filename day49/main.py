@@ -7,9 +7,9 @@ ACCOUNT_EMAIL = YOUR LOGIN EMAIL
 ACCOUNT_PASSWORD = YOUR LOGIN PASSWORD
 PHONE = YOUR PHONE NUMBER
 
-chrome_driver_path = YOUR CHROME DRIVER PATH
+chrome_driver_path = "/Users/lenargasimov/Development/chromedriver"
 driver = webdriver.Chrome(chrome_driver_path)
-driver.get("https://www.linkedin.com/jobs/search/?f_LF=f_AL&geoId=102257491&keywords=marketing%20intern&location=London%2C%20England%2C%20United%20Kingdom&redirect=false&position=1&pageNum=0")
+driver.get("https://www.linkedin.com/jobs/search/?f_E=2&f_WRA=true&keywords=junior%20python%20developer")
 
 time.sleep(2)
 sign_in_button = driver.find_element_by_link_text("Sign in")

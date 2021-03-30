@@ -1,5 +1,7 @@
 # Day 49
 
-For this, I created a fake LinkedIn profile, but am stoppeing short of sumbitting job applications so as not to spam real companies with fake applications.
+Used Selenium Webdriver to create a LinkedIn bot to automate posting job applications.
 
 ## Job Application Bot
+
+![linkedin](linkedin.gif)

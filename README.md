@@ -70,4 +70,5 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 51](day51): Internet Speed Twitter Complaint Bot
 - [Day 52](day52): Instagram Follower Bot
 - [Day 53](day53): Automated Data Entry Job
+- [Day 54](day54): Introduction to Web Development with Flask
 

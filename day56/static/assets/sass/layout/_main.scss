@@ -1,0 +1,67 @@
+///
+/// Identity by HTML5 UP
+/// html5up.net | @ajlkn
+/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+///
+
+/* Main */
+
+	#main {
+		@include vendor('transform-origin', '50% 50%');
+		@include vendor('transform', 'rotateX(0deg)');
+		@include vendor('transition', (
+			'opacity #{_duration(main)} ease',
+			'transform #{_duration(main)} ease'
+		));
+		@include padding(4.5em, 3em);
+		background: _palette(bg);
+		border-radius: _size(border-radius);
+		cursor: default;
+		max-width: 100%;
+		opacity: 0.95;
+		position: relative;
+		text-align: center;
+		width: 27em;
+
+		.avatar {
+			position: relative;
+			display: block;
+			margin-bottom: _size(element-margin);
+
+			img {
+				display: block;
+				margin: 0 auto;
+				border-radius: 100%;
+				box-shadow: 0 0 0 1.5em _palette(bg);
+			}
+
+			&:before {
+				content: '';
+				display: block;
+				position: absolute;
+				top: 50%;
+				left: -3em;
+				width: calc(100% + 6em);
+				height: _size(border-width);
+				z-index: -1;
+				background: _palette(border);
+			}
+		}
+
+		@include breakpoint('<=xsmall') {
+			@include padding(4em, 2em);
+			width: 100%;
+
+			.avatar {
+				&:before {
+					left: -2em;
+					width: calc(100% + 4em);
+				}
+			}
+		}
+
+		body.is-preload & {
+			@include vendor('transform', 'rotateX(15deg)');
+			opacity: 0;
+		}
+	}

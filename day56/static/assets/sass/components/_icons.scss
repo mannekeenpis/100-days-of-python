@@ -1,0 +1,60 @@
+///
+/// Identity by HTML5 UP
+/// html5up.net | @ajlkn
+/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+///
+
+/* Icons */
+
+	ul.icons {
+		cursor: default;
+		list-style: none;
+		padding-left: 0;
+		margin-top: -0.675em;
+
+		li {
+			display: inline-block;
+			padding: 0.675em 0.5em;
+
+			a {
+				@include icon-alt(false, true);
+				position: relative;
+				display: block;
+				width: 3.75em;
+				height: 3.75em;
+				border-radius: 100%;
+				border: solid _size(border-width) _palette(border);
+				line-height: 3.75em;
+				overflow: hidden;
+				text-align: center;
+				text-indent: 3.75em;
+				white-space: nowrap;
+
+				&:before {
+					position: absolute;
+					top: 0;
+					left: 0;
+					width: inherit;
+					height: inherit;
+					font-size: 1.85rem;
+					line-height: inherit;
+					text-align: center;
+					text-indent: 0;
+				}
+
+				&:hover {
+					border-color: _palette(highlight);
+				}
+			}
+		}
+
+		@include breakpoint('<=xsmall') {
+			li {
+				a {
+					&:before {
+						font-size: 1.5rem;
+					}
+				}
+			}
+		}
+	}

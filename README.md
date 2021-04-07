@@ -73,4 +73,6 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 54](day54): Introduction to Web Development with Flask
 - [Day 55](day55): HTML & URL Parsing in Flask and the Higher Lower Game
 - [Day 56](day56): Rendering HTML/Static Files and Name Card Project
+- [Day 57](day57): Templating with Jinja and Blog Project
+
 

@@ -77,4 +77,5 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 58](day58): Bootstrap
 
 ## 🚀 Advanced
+- [Day 59](day59): Upgraded Blog with Bootstrap
 

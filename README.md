@@ -83,3 +83,4 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 62](day62): Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
 - [Day 63](day63): Databases and with SQLite and SQLAlchemy
 - [Day 64](day64): My Top 10 Movies Website
+- [Day 65](day65): Web Design School - How to Create a Website that People will Love

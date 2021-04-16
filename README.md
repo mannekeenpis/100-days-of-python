@@ -84,3 +84,4 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 63](day63): Databases and with SQLite and SQLAlchemy
 - [Day 64](day64): My Top 10 Movies Website
 - [Day 65](day65): Web Design School - How to Create a Website that People will Love
+- [Day 66](day66): Building Your Own API with RESTful Routing

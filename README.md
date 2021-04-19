@@ -87,3 +87,4 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 66](day66): Building Your Own API with RESTful Routing
 - [Day 67](day67): Blog Capstone Project Part 3 - RESTful Routing
 - [Day 68](day68): Authentication with Flask
+- [Day 69](day69): Blog Capstone Project Part 4 - Adding Users

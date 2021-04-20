@@ -88,3 +88,4 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 67](day67): Blog Capstone Project Part 3 - RESTful Routing
 - [Day 68](day68): Authentication with Flask
 - [Day 69](day69): Blog Capstone Project Part 4 - Adding Users
+- [Day 70](day70): Deploying Your Web Application with Heroku

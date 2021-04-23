@@ -91,3 +91,4 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 70](day70): Deploying Your Web Application with Heroku
 - [Day 71](day71): Data Exploration with Pandas: College Major
 - [Day 72](day72): Data Visualisation with Matplotlib: Programming Languages
+- [Day 73](day73): Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset

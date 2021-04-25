@@ -93,3 +93,4 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 72](day72): Data Visualisation with Matplotlib: Programming Languages
 - [Day 73](day73): Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset
 - [Day 74](day74): Google Trends Data: Resampling and Visualising Time Series
+- [Day 75](day75): Beautiful Plotly Charts & Analysing the Android App Store

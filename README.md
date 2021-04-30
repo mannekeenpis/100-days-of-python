@@ -105,7 +105,7 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 
 ## ✔️ Author
 
-<img style="border-radius: 50%" src="https://github.com/lenargasimov.png" width="100px;" alt=""/>
+<img style="border-radius: 50%;" src="https://github.com/lenargasimov.png" width="100px;" alt=""/>
 <br>
   
 <p>

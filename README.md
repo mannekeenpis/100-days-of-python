@@ -98,3 +98,7 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 77](day77): Linear Regression and Data Visualisation with Seaborn
 - [Day 78](day78): Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
 - [Day 79](day79): The Tragic Discovery of Handwashing: t-Tests & Distributions
+- [Day 80](day80): Capstone Project - Predict House Prices
+
+## 👨‍💻 Professional
+

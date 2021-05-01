@@ -101,6 +101,7 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 80](day80): Capstone Project - Predict House Prices
 
 ## 👨‍💻 Professional
+- [Day 81](day81): Portfolio Project - [Python Scripting]
 
 
 ## ✔️ Author

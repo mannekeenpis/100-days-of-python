@@ -103,6 +103,7 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 ## 👨‍💻 Professional
 - [Day 81](day81): Portfolio Project - [Python Scripting]
 - [Day 82](day82): Portfolio Project - [Python Web Development]
+- [Day 83](day83): Portfolio Project - [Python Scripting]
 
 
 

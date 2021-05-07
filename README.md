@@ -107,6 +107,7 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 84](day84): Portfolio Project - [GUI]
 - [Day 85](day85): Portfolio Project - [GUI]
 - [Day 86](day86): Portfolio Project - [Game]
+- [Day 87](day87): Portfolio Project - [Web Development]
 
 ## ✔️ Author
 

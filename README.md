@@ -110,6 +110,7 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 87](day87): Portfolio Project - [Web Development]
 - [Day 88](day88): Portfolio Project - [Web Development]
 - [Day 89](day89): Portfolio Project - [GUI Desktop App]
+- [Day 90](day90): Portfolio Project - [HTTP Requests & APIs]
 
 ## ✔️ Author
 

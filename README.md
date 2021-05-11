@@ -111,6 +111,7 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 88](day88): Portfolio Project - [Web Development]
 - [Day 89](day89): Portfolio Project - [GUI Desktop App]
 - [Day 90](day90): Portfolio Project - [HTTP Requests & APIs]
+- [Day 91](day91): Portfolio Project - [Image Processing & Data Science]
 
 ## ✔️ Author
 

@@ -1,0 +1,31 @@
+{% include "head.html" %}
+
+<html lang="en">
+
+<body class="d-flex h-100 text-center text-white" style="background-color:black;">
+
+<div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+  <header class="mb-auto">
+    <div>
+        {% include "nav.html" %}
+    </div>
+  </header>
+
+  <main class="px-3">
+      <br>
+      <br>
+      <br>
+      <br>
+    <h1 style="color:white; font-size:75px; color:white;">Find The Colors</h1>
+        <br>
+      <a href="{{url_for('create')}}" class="btn btn-lg btn-outline-warning" style="color:pink">Get Started</a>
+    </p>
+  </main>
+    {% include "footer.html" %}
+</div>
+
+
+
+{% include "js.html" %}
+</body>
+</html>

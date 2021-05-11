@@ -1,0 +1,58 @@
+{% include "head.html" %}
+<html lang="en">
+
+<body class="d-flex h-100 text-center text-white" style="background-color:#00b894;">
+
+<div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+  <header class="mb-auto">
+    <div>
+        {% include "nav.html" %}
+    </div>
+  </header>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 mx-auto">
+          <p style="font-size:100px;">🎨</p>
+          <h2 style="font-family: 'Homemade Apple', cursive; color:white; font-size:50px;">Color Library</h2>
+          <br>
+          <br>
+          <br>
+      </div>
+    </div>
+
+    <div class="row justify-content-center">
+        {% for image in images %}
+        <div class="card-columns mb-3" style="width: 18rem;">
+            <div class="card">
+                <img class="card-img-top" src="static/images/{{image}}" alt="Card image cap">
+            <div class="card-body" style = "background-color:#f5f5f5;">
+                <h6 class="card-title" style="color:gray;">{{image.strip('.jpg')}}</h6>
+            </div>
+
+            <ul class="list-group list-group-flush">
+                {% for hex in hexes: %}
+                {% if hex[0] == image.strip('.jpg'): %}
+                    {% for i in range (0,5): %}
+                <li class="list-group-item" style="color: white; background-color:#{{hex[1][i]}};">{{hex[1][i]}}</li>
+                    {% endfor %}
+                {% endif %}
+            {% endfor %}
+            </ul>
+            <div class="card-body" style="background-color:#f5f5f5;">
+                <a href="{{url_for('download', hex=image.strip('.jpg'))}}" class="card-link" style="color:gray">Download</a>
+                <a href="{{url_for('delete',image=image)}}" class="card-link" style="color:coral">Delete</a>
+            </div>
+            </div>
+        </div>
+        <br>
+        {% endfor %}
+    </div>
+</div>
+
+    {% include "footer.html" %}
+</div>
+
+{% include "js.html" %}
+</body>
+</html>

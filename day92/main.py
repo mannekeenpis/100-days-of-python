@@ -9,7 +9,7 @@ def take_input(message):
     return (s, no_of_images)
 
 
-print("===========================")
+print("==========================="
 print("WELCOME TO IMAGE DOWNLOADER")
 print("===========================")
 print("1. By Username")

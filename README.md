@@ -113,6 +113,7 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 90](day90): Portfolio Project - [HTTP Requests & APIs]
 - [Day 91](day91): Portfolio Project - [Image Processing & Data Science]
 - [Day 92](day92): Portfolio Project - [Web Scraping]
+- [Day 93](day93): Portfolio Project - [GUI Automation]
 
 ## ✔️ Author
 

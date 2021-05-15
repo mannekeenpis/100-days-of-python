@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div style="background-color: black; height: 100vh">
+    <div class="container h-100">
+        <div class="row justify-content-center">
+            <div class="col-md-6 col-sm-12 col-xs-12 pt-50">
+                <div class="card border-0 p-3 shadow-sm text-center">
+                    <h3 class="text-muted">Current Weather For {{ city }}</h3>
+                    <h5 class="lead text-muted">Temperature: {{ temp }} F</h5>
+                    <h5 class="lead text-muted">Humidity: {{ humidity }}%</h5>
+                    <h5 class="lead text-muted">Wind Speed: {{ wind_speed }} mph</h5>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock content %}

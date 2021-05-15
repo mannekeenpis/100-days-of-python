@@ -1,0 +1,42 @@
+{
+    "coord": {
+        "lon": -86.16,
+        "lat": 39.77
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 34.81,
+        "pressure": 1028,
+        "humidity": 96,
+        "temp_min": 30.99,
+        "temp_max": 37.4
+    },
+    "visibility": 16093,
+    "wind": {
+        "speed": 6.93,
+        "deg": 30
+    },
+    "clouds": {
+        "all": 90
+    },
+    "dt": 1573872908,
+    "sys": {
+        "type": 1,
+        "id": 6096,
+        "country": "US",
+        "sunrise": 1573820949,
+        "sunset": 1573856970
+    },
+    "timezone": -18000,
+    "id": 4259418,
+    "name": "Indianapolis",
+    "cod": 200
+}

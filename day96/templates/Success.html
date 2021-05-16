@@ -1,0 +1,15 @@
+{% extends "LayoutFile.html" %}
+
+{% block sectioncontent %}
+{% with messages = get_flashed_messages() %}
+    {% if messages %}
+        {% for message in messages %}
+            <p style='color:red;'>{{ message }}</p>
+        {% endfor %}
+    {% endif %}
+{% endwith %}
+
+<h1>Thanks for your order {{ current_user.name }}!</h1>
+
+
+{% endblock %}

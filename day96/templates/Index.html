@@ -1,0 +1,56 @@
+{% extends "LayoutFile.html" %}
+
+{% block navbar %}
+<nav id="nav">
+    <ul>
+        <li><a href="{{ url_for('home') }}" class="active">Home Page</a></li>
+        {% if session["user"]: %}
+            <li><a href="{{ url_for('ShoppingCart') }}">Shopping Cart ({{ basketitems }})</a></li>
+            <li><a href="{{ url_for('logout') }}">Logout</a></li>
+        {% else %}
+            <li><a href="{{ url_for('login') }}">Login</a></li>
+            <li><a href="{{ url_for('register') }}">Register</a></li>
+        {% endif %}
+    </ul>
+</nav>
+{% endblock %}
+
+{% block sectioncontent %}
+{% with messages = get_flashed_messages() %}
+    {% if messages %}
+        {% for message in messages %}
+            <p style='color:red;'>{{ message }}</p>
+        {% endfor %}
+    {% endif %}
+{% endwith %}
+
+<h2>Products in stock now:</h2>
+<p>All products shown below are in stock now for immediate shipping.</p>
+
+{% for product in products: %}
+    <div class="col-md-12 mb-12" style="padding-bottom:10px; margin-bottom:1px;">
+        <div class="card h-50">
+          <div class="card-body">
+            <h2 class="card-title">{{ product.product_name }}</h2>
+            <row class="row">
+                <div class="column col-md-6">
+                    <h4 class="card-text">£{{ product.price }} - {{ product.stock_volume }} in stock!</h4>
+                    <p class="card-text">{{ product.product_description }}</p>
+                </div>
+                <div class="column col-lg-6">
+                    <img style="height: 80%; width:80%;" src="{{ product.img_url }}">
+                </div>
+            </row>
+          </div>
+          <div class="card-footer">
+            {% if session["user"]: %}
+              <a href="{{ url_for('addtoCart', id=product.id) }}" class="btn btn-primary btn-sm">Add to Cart</a>
+            {% else %}
+              <p>Sign in to add to your cart...</p>
+            {% endif %}
+          </div>
+        </div>
+    </div>
+
+{% endfor %}
+{% endblock %}

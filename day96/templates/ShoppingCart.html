@@ -1,0 +1,89 @@
+{% extends "LayoutFile.html" %}
+
+{% block navbar %}
+<nav id="nav">
+    <ul>
+        <li><a href="{{ url_for('home') }}">Home Page</a></li>
+        {% if session["user"]: %}
+            <li><a href="{{ url_for('ShoppingCart') }}" class="active">Shopping Cart ({{ basketitems }})</a></li>
+        {% else %}
+            <li><a href="{{ url_for('login') }}">Login</a></li>
+            <li><a href="{{ url_for('register') }}">Register</a></li>
+        {% endif %}
+        <li><a href="{{ url_for('logout') }}">Logout</a></li>
+    </ul>
+</nav>
+{% endblock %}
+
+{% block sectioncontent %}
+{% with messages = get_flashed_messages() %}
+    {% if messages %}
+        {% for message in messages %}
+            <p style='color:red;'>{{ message }}</p>
+        {% endfor %}
+    {% endif %}
+{% endwith %}
+
+<h2>Your Shopping Cart</h2>
+
+{% if cart %}
+    <table>
+        <thead>
+        <td>Item Name</td>
+        <td>Quantity</td>
+        <td>Item Price</td>
+        <td>Item Subtotal</td>
+        <td>Remove Item</td>
+        </thead>
+        <tbody>
+        {% for product in cart: %}
+            <tr>
+                <td>{{ cart[product]["name"] }}</td>
+                <td>{{ cart[product]["qty"] }}</td>
+                <td>£{{ cart[product]["price"] }}</td>
+                <td>£{{ cart[product]["price"] * cart[product]["qty"] }}</td>
+                <td><a href="{{ url_for('removefromCart', id = cart[product]['product_ID']) }}">Remove</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+    <div>
+        <h3 style="text-align:right;">Basket Subtotal:</h3>
+        <h1 style="text-align:right;">£{{ baskettotal }}</h1>
+        <button id="checkout-button" style="text-align:center;">Checkout</button>
+        <script type="text/javascript">
+      // Create an instance of the Stripe object with your publishable API key
+      var stripe = Stripe('pk_test_51IfoHEAtboAi1oENq3e4b8b7KpAQRbCYp0NCnWXRHJRWl2vgp0dG5eY0M03zurl9qZXltsLSMIkCO4F9T9GMxKy800VwZT7J0J');
+      var checkoutButton = document.getElementById('checkout-button');
+
+      checkoutButton.addEventListener('click', function() {
+        // Create a new Checkout Session using the server-side endpoint you
+        // created in step 3.
+        fetch('/create-checkout-session', {
+          method: 'POST',
+        })
+        .then(function(response) {
+          return response.json();
+        })
+        .then(function(session) {
+          return stripe.redirectToCheckout({ sessionId: session.id });
+        })
+        .then(function(result) {
+          // If `redirectToCheckout` fails due to a browser or network
+          // error, you should display the localized error message to your
+          // customer using `error.message`.
+          if (result.error) {
+            alert(result.error.message);
+          }
+        })
+        .catch(function(error) {
+          console.error('Error:', error);
+        });
+      });
+    </script>
+    </div>
+
+{% else %}
+    <p>No items in your cart</p>
+{% endif %}
+{% endblock %}

@@ -1,0 +1,35 @@
+{% extends "LayoutFile.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block sectionheader %}Register to use the site...{% endblock %}
+
+{% block navbar %}
+<nav id="nav">
+    <ul>
+        <li><a href="{{ url_for('home') }}">Home Page</a></li>
+        {% if session["user"]: %}
+            <li><a href="{{ url_for('ShoppingCart') }}">Shopping Cart ({{ basketitems }})</a></li>
+            <li><a href="{{ url_for('logout') }}">Logout</a></li>
+        {% else %}
+            <li><a href="{{ url_for('login') }}">Login</a></li>
+            <li><a href="{{ url_for('register') }}" class="active">Register</a></li>
+        {% endif %}
+    </ul>
+</nav>
+{% endblock %}
+
+{% block sectioncontent %}
+<p>Register to use the site and keep track of your to-do list.</p>
+{% with messages = get_flashed_messages() %}
+    {% if messages %}
+        {% for message in messages %}
+            <p style='color:red;'>{{ message }}</p>
+        {% endfor %}
+    {% endif %}
+{% endwith %}
+
+<form method="POST" action="{{ url_for('register') }}" novalidate>
+    {{ wtf.quick_form(form, novalidate=True) }}
+</form>
+
+{% endblock %}

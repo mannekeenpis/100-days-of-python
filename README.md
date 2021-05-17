@@ -117,6 +117,7 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 94](day94): Portfolio Project - [Game]
 - [Day 95](day95): Portfolio Project - [HTTP Requests & APIs]
 - [Day 96](day96): Portfolio Project - [Web Development]
+- [Day 97](day97): Portfolio Project - [Python Automation]
 
 ## ✔️ Author
 

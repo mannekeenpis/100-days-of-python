@@ -134,7 +134,7 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 [![Twitter Badge](https://img.shields.io/badge/-@lenargasimov-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lenargasimov)](https://twitter.com/lenargasimov) [![Linkedin Badge](https://img.shields.io/badge/-lenargasimov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lenargasimov/)](https://www.linkedin.com/in/lenargasimov/)
 [![Gmail Badge](https://img.shields.io/badge/-lenargasimovdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lenargasimovdev@gmail.com)](mailto:lenargasimovdev@gmail.com)
 
-<a href="https://www.buymeacoffee.com/lenargasimov" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/lenargasimov" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="width: 217px;" ></a>
 
 <h4>
 

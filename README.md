@@ -101,26 +101,26 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 80](day80): Capstone Project - Predict House Prices
 
 ## 👨‍💻 Professional
-- [Day 81](day81): Portfolio Project - [Python Scripting]
-- [Day 82](day82): Portfolio Project - [Python Web Development]
-- [Day 83](day83): Portfolio Project - [Python Scripting]
-- [Day 84](day84): Portfolio Project - [GUI]
-- [Day 85](day85): Portfolio Project - [GUI]
-- [Day 86](day86): Portfolio Project - [Game]
-- [Day 87](day87): Portfolio Project - [Web Development]
-- [Day 88](day88): Portfolio Project - [Web Development]
-- [Day 89](day89): Portfolio Project - [GUI Desktop App]
-- [Day 90](day90): Portfolio Project - [HTTP Requests & APIs]
-- [Day 91](day91): Portfolio Project - [Image Processing & Data Science]
-- [Day 92](day92): Portfolio Project - [Web Scraping]
-- [Day 93](day93): Portfolio Project - [GUI Automation]
-- [Day 94](day94): Portfolio Project - [Game]
-- [Day 95](day95): Portfolio Project - [HTTP Requests & APIs]
-- [Day 96](day96): Portfolio Project - [Web Development]
-- [Day 97](day97): Portfolio Project - [Python Automation]
-- [Day 98](day98): Portfolio Project - [Data Science]
-- [Day 99](day99): Portfolio Project - [Data Science]
-- [Day 100](day100): Portfolio Project - [Data Science]
+- [Day 81](day81): Portfolio Project - Text to Morse Code Converter
+- [Day 82](day82): Portfolio Project - A website to show off your skills and the things I built
+- [Day 83](day83): Portfolio Project - Built a text-based version of the Tic Tac Toe game
+- [Day 84](day84): Portfolio Project - A program where you can upload images and add a watermark
+- [Day 85](day85): Portfolio Project - A Tkinter GUI desktop application that tests your typing speed
+- [Day 86](day86): Portfolio Project - Using Python Turtle, build a clone of the 80s hit game Breakout
+- [Day 87](day87): Portfolio Project - Built a website that lists cafes with wifi and power for remote working
+- [Day 88](day88): Portfolio Project - Built a todo list website with Flask
+- [Day 89](day89): Portfolio Project - Disappearing Text Writing App
+- [Day 90](day90): Portfolio Project - Convert PDF to Audiobook
+- [Day 91](day91): Portfolio Project - Image Colour Palette Generator
+- [Day 92](day92): Portfolio Project - Built a custom web scraper to collect data
+- [Day 93](day93): Portfolio Project - Automate the Google Dinosaur Game
+- [Day 94](day94): Portfolio Project - Space Invaders
+- [Day 95](day95): Portfolio Project - Built a custom website using an API
+- [Day 96](day96): Portfolio Project - An eCommerce website with payment processing
+- [Day 97](day97): Portfolio Project - Sent a WhatsApp Message with Python
+- [Day 98](day98): Portfolio Project - Analysed and Visualise the Space Race
+- [Day 99](day99): Portfolio Project - Analyzing Deaths involving Police in the United States
+- [Day 100](day100): Portfolio Project - Predicting Earnings using Multivariable Regression
 
 ## ✔️ Author
 

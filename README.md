@@ -1,4 +1,7 @@
-# 100 Days of Python 🐍
+# 100 Days of Python 🐍 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?&url=https://github.com/lenargasimov/100-days-of-python&via=lenargasimov&hashtags=html,css,bootstrap,js,python,flask,100daysofcode,developers)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/lenargasimov/100-days-of-python?style=plastic)
+
 
 ![wallpaper](wallpaper.png)
 <br>
@@ -122,7 +125,7 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 99](day99): Portfolio Project - Analyzing Deaths involving Police in the United States
 - [Day 100](day100): Portfolio Project - Predicting Earnings using Multivariable Regression
 
-## ✔️ Author
+## 👨‍💻 Author
 
 <img style="border-radius: 50%;" src="https://github.com/lenargasimov.png" width="100px;" alt=""/>
 <br>
@@ -134,7 +137,9 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 [![Twitter Badge](https://img.shields.io/badge/-@lenargasimov-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lenargasimov)](https://twitter.com/lenargasimov) [![Linkedin Badge](https://img.shields.io/badge/-lenargasimov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lenargasimov/)](https://www.linkedin.com/in/lenargasimov/)
 [![Gmail Badge](https://img.shields.io/badge/-lenargasimovdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lenargasimovdev@gmail.com)](mailto:lenargasimovdev@gmail.com)
 
-<a href="https://www.buymeacoffee.com/lenargasimov" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" width="175px;" alt="Buy Me A Coffee"></a>
+## 💸 Donations
+
+Feel free to use the GitHub Sponsor button to donate towards my work if you're feeling generous ☕️
 
 <h4>
 

@@ -139,7 +139,7 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 
 ## 💸 Donations
 
-Feel free to use the GitHub Sponsor button to donate towards my work if you're feeling generous ☕️
+Feel free to use the :octocat: GitHub Sponsor button to donate towards my work if you're feeling generous ☕️
 
 <h4>
 

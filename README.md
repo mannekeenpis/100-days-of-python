@@ -1,7 +1,8 @@
 # 100 Days of Python 🐍 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?&url=https://github.com/lenargasimov/100-days-of-python&via=lenargasimov&hashtags=html,css,bootstrap,js,python,flask,100daysofcode,developers)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/lenargasimov/100-days-of-python?style=plastic)
-
+![](https://img.shields.io/github/forks/lenargasimov/100-days-of-python.svg)
+![](https://img.shields.io/github/stars/lenargasimov/100-days-of-python.svg)
 
 ![wallpaper](wallpaper.png)
 <br>

@@ -1,13 +1,19 @@
-![](https://media.giphy.com/media/kPVTbiTORIopy/giphy.gif)
+<p align="center">
+<img width="" src="https://media.giphy.com/media/kPVTbiTORIopy/giphy.gif" align="center" alt="gif" />
+<h1 align="center">100 Days of Python 🐍 
+    <a href="https://twitter.com/intent/tweet?&url=https://github.com/lenargasimov/100-days-of-python&via=lenargasimov&hashtags=html,css,bootstrap,js,python,flask,100daysofcode,developers">
+      <img alt="Tweet" src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" />
+    </a>
+</h1>
+</p>
 
-# 100 Days of Python 🐍 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?&url=https://github.com/lenargasimov/100-days-of-python&via=lenargasimov&hashtags=html,css,bootstrap,js,python,flask,100daysofcode,developers)
+<p align="center">
+    <img src="https://img.shields.io/github/last-commit/lenargasimov/100-days-of-python?style=plastic" alt="GitHub last commit">
+    <img src="https://img.shields.io/github/forks/lenargasimov/100-days-of-python.svg" alt="">
+    <img src="https://img.shields.io/github/stars/lenargasimov/100-days-of-python.svg" alt="">
+</p>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/lenargasimov/100-days-of-python?style=plastic)
-![](https://img.shields.io/github/forks/lenargasimov/100-days-of-python.svg)
-![](https://img.shields.io/github/stars/lenargasimov/100-days-of-python.svg)
-
-
-Im completed in "100 Days of Code - The Complete Python Pro Bootcamp for 2021" course from Udemy.
+I'm completed in "100 Days of Code - The Complete Python Pro Bootcamp for 2021" course from Udemy.
 Since my goal is to master Python, I chose to take this course in the hope it would provide more structure and better
 guidance than I was getting while "self-learning".
 While taking part in this course, I have been taking notes and what-not and attempting all of the course projects to the

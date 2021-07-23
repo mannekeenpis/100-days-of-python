@@ -134,6 +134,13 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 99](day99): Portfolio Project - Analyzing Deaths involving Police in the United States
 - [Day 100](day100): Portfolio Project - Predicting Earnings using Multivariable Regression
 
+![certificate](certificate.jpg)
+
+This certificate above verifies that Lenar Gasimov successfully completed the course 
+[100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code)  on 05/20/2021 as taught by Dr. Angela Yu on Udemy. 
+The certificate indicates the entire course was completed as validated by the student. 
+The course duration represents the total video hours of the course at time of most recent completion.
+
 ## 👨‍💻 Author
 
 <img style="border-radius: 50%" src="https://github.com/lenargasimov.png" width="100px;" alt=""/>

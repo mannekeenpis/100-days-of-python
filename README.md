@@ -180,24 +180,17 @@ This certificate above verifies that Lenar Gasimov successfully completed the co
 The certificate indicates the entire course was completed as validated by the student. 
 The course duration represents the total video hours of the course at time of most recent completion.
 
-## 👨‍💻 Author
+## Author
 
 <img style="border-radius: 50%" src="https://github.com/lenargasimov.png" width="100px;" alt=""/>
 <br>
   
 <p>
-<b>Lenar Gasimov</b><br>Python developer | Python, Flask.</p>
+<b>Lenar Gasimov</b><br>Python developer | Python, Django, Flask.</p>
     
 [![Website](https://img.shields.io/badge/Website/Blog-black?&style=for-the-badge&logo=website&logoColor=white)](https://lenargasimov.dev)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lenargasimov)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lenargasimov)
-[![Yahoo](https://img.shields.io/badge/Yahoo-720e9e?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:lenargasimov@yahoo.com)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/lenargasimov)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lenargasimovdev@gmail.com)
 
-## 💸 Donations
-
-Feel free to use the :octocat: GitHub Sponsor button to donate towards my work if you're feeling generous ☕️
-
-
-#### 🚧 Under construction... 🚧
 

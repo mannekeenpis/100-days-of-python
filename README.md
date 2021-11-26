@@ -184,7 +184,7 @@ The course duration represents the total video hours of the course at time of mo
 
 <div align='center'>
 
-<img src="https://github.com/lenargasimov.png" width="100px;" height="auto" style="border-radius:50%" alt=""/>
+<img src="image/profile-rounded.png" width="100px;" height="auto" style="border-radius:50%" alt=""/>
 <br>
   
 <p>

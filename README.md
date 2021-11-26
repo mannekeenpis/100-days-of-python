@@ -180,7 +180,9 @@ This certificate above verifies that Lenar Gasimov successfully completed the co
 The certificate indicates the entire course was completed as validated by the student. 
 The course duration represents the total video hours of the course at time of most recent completion.
 
-## Author
+---
+
+<div align='center'>
 
 <img style="border-radius: 50%" src="https://github.com/lenargasimov.png" width="100px;" alt=""/>
 <br>
@@ -191,5 +193,5 @@ The course duration represents the total video hours of the course at time of mo
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lenargasimov)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lenargasimov)
 [![DuckDuckGo](https://img.shields.io/badge/email-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)](mailto:lenargasimov@duck.com)
-
+</div>
 

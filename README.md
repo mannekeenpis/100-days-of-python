@@ -182,16 +182,5 @@ The course duration represents the total video hours of the course at time of mo
 
 ---
 
-<div align='center'>
-
-<img src="image/profile-rounded.png" width="100px;" height="auto" style="border-radius:50%" alt=""/>
-<br>
-  
-<p>
-<b>Lenar Gasimov</b><br>Python developer | Python, Django, Flask.</p>
-    
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lenargasimov)
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lenargasimov)
-[![DuckDuckGo](https://img.shields.io/badge/email-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)](mailto:lenargasimov@duck.com)
-</div>
+@lenargasimov 🐍 2021
 
